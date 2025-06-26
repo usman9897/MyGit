@@ -8,3 +8,4 @@ file1
  new file1
 
 adding my first commit after this file is staged. 
+adding my 2nd line.
