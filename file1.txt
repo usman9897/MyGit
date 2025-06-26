@@ -6,3 +6,5 @@ file1
 
 file1
  new file1
+
+adding my first commit after this file is staged. 
