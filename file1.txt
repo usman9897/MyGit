@@ -19,3 +19,22 @@ nothing fancy.
 #Added Branch new02#
 
 new text entry for branch 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############--ADDING MIAN BRANCH ENTRY --################
+ADDING MAIN ENTRY.
+BRANCH ALREADY COMMITTED.
+
