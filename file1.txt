@@ -19,3 +19,15 @@ nothing fancy.
 #Added Branch new02#
 
 new text entry for branch 02
+
+# After Branch02 is merged with Main.
+
+Adding my next entry.
+
+
+
+
+
+
+
+#####Addition in the Main Branch####
